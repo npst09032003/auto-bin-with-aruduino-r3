@@ -1,4 +1,4 @@
-# You have to install a lib that can help to cal the dis from the sensor to one object.You can also build your own funtion but I recommend using that lib. I've attached that lib. This lib is developed by https://github.com/jeroendoggen, you can follow him for more information. I'll put the full link below.
+# You have to install a lib that can help to calculate the distance from the sensor to one object.You can also build your own funtion but I recommend using that lib. I've attached that lib. This lib is developed by https://github.com/jeroendoggen, you can follow him for more information. I'll put the full link below.
 # https://github.com/jeroendoggen/Arduino-distance-sensor-library.git
 # I'll show how to make an automatic-bin, it's very easy
 # You'll need some material. I'll list below.
