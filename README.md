@@ -1,7 +1,7 @@
 # You have to install a lib that can help to calculate the distance from the sensor to an obstacle.You can also build your own function but I recommend using that lib. I've attached that lib. This lib is developed by https://github.com/jeroendoggen, you can follow him for more information. I'll put the full link below.
 # https://github.com/jeroendoggen/Arduino-distance-sensor-library.git
-# I'll show how to make an automatic-bin, it's very easy
-# You'll need some material. I'll list below.
+# I'll show how to make an automatic trash bin, it's very easy
+# These are a few components you may need to build the bin. I'll list them below.
 # Arduino Uno R3:
 ![image](https://user-images.githubusercontent.com/103082614/201532264-b0377d92-ddd0-4488-a9b7-a8eb1b31e89a.png)
 # Ultrasonic Sensor SRF05:
