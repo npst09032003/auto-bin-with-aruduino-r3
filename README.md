@@ -1,4 +1,4 @@
-# You have to install a lib that can help to calculate the distance from the sensor to an obstacle.You can also build your own funtion but I recommend using that lib. I've attached that lib. This lib is developed by https://github.com/jeroendoggen, you can follow him for more information. I'll put the full link below.
+# You have to install a lib that can help to calculate the distance from the sensor to an obstacle.You can also build your own function but I recommend using that lib. I've attached that lib. This lib is developed by https://github.com/jeroendoggen, you can follow him for more information. I'll put the full link below.
 # https://github.com/jeroendoggen/Arduino-distance-sensor-library.git
 # I'll show how to make an automatic-bin, it's very easy
 # You'll need some material. I'll list below.
@@ -18,5 +18,5 @@
 - Connect ultrasonic sensor to arduino: there are 5 ports but we only use 4 ports: VCC, Trig, Echo and GND. Connect those ports to arduino: VCC-5V, Trig-D13,Echo-D12, GND-GND.
 - Connect servo to arduino: arduino R3 only have 1 port 5V, so I will use test board, so that we can use port 5V between servo and sensor. Connect those ports to arduino: VCC-5V, GND-GND, Signal-D11.
 - Connect arduino to Arduino IDE and upload file controller.ino to arduino.
-- Test the funtion before we move to next part.
+- Test the function before we move to next part.
 - Design the bin as you want.
